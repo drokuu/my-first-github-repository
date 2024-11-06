@@ -4,3 +4,5 @@ README.md was just editted manually
 Changing to third option for readme.md merge
 
 New line was added locally
+
+Another new line in feature-2 branch
