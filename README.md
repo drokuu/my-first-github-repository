@@ -1,4 +1,4 @@
 # my-first-github-repository
 
 README.md was just editted manually
-This file was modified locally
+Changing to third option for readme.md merge
